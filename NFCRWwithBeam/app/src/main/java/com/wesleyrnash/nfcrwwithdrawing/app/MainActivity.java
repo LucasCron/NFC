@@ -43,6 +43,8 @@ public class MainActivity extends Activity {
         beamDataButton = (Button) findViewById(R.id.button_beam_data);
         beamData2Button = (Button) findViewById(R.id.button_beam_data2);
 
+        //I am just trying to test some stuff.
+
         //Creates a click listener that when pressed starts the triage activity class
         triageButton.setOnClickListener(new View.OnClickListener() {
             @Override
