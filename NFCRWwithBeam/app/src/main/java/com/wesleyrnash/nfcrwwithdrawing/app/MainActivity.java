@@ -45,6 +45,7 @@ public class MainActivity extends Activity {
 
         //I am just trying to test some stuff.
         //Third commit?
+        //New branch?
 
         //Creates a click listener that when pressed starts the triage activity class
         triageButton.setOnClickListener(new View.OnClickListener() {
